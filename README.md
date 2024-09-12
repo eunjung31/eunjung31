@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 - 😄 I'm Eunjung /ɨn-d͡ʒʌŋ/!
-- 💬 Speech researcher, interested in computational linguistics, particularly phonetics and phonology.
+- 💬 Speech Scientist, interested in computational linguistics, particularly phonetics and phonology.
 - 🤔 My research has been focused on application technologies for dysarthric speech, sometimes nonnative speech also.
 - 📝 Currently learning as a Visiting scholar @ ChangeLing lab, Language Technologies Institute, Carnegie Mellon University
 - 👩‍🎓 Former Ph.D. & Masters student @ Linguistics, Seoul National University
