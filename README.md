@@ -9,7 +9,6 @@
 - ❤️ My passion comes from making a better world where everyone can convey their messages to the world.
 - 📌 I believe linguistic knowledge can be leveraged to enhance speech technologies for individuals.
 <!-- 💞️ I’m looking to collaborate on ... -->
-- ⚡ For more information, please visit my [MY CV](./EJ_CV.pdf
-)
+- ⚡ For more information, please visit my [MY CV](./EJ_CV.pdf)
 
 
