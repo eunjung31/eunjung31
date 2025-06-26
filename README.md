@@ -4,7 +4,8 @@
 - 💬 Computational Linguist, and Speech Scientist, particularly interested in phonetics and phonology.
 - 🤔 My research has focused on technologies for pathological speech (mainly motor speech disorders), and occasionally on non-native speech, particularly in the areas of automatic assessment and ASR.
 - 💡 My core interest lies in the cross-lingual and multilingual aspects of these applications.
-- 📝 Currently learning as a Visiting scholar @ ChangeLing lab, Language Technologies Institute, Carnegie Mellon University
+- 📝 Currently, I am a visiting scholar @ SALT lab, Computer Science Department, University of Texas at Austin.
+- 📝 Previously, I worked as a visiting scholar @ ChangeLing lab, Language Technologies Institute, Carnegie Mellon University
 - 👩‍🎓 Former Ph.D. & Masters student @ Spoken Language Processing lab, Linguistics, Seoul National University
 - 🌱 Former Undergrad student @ Korean Language and Literature & Psychology (double major), Yonsei University
 - ❤️ My passion comes from making a better world where everyone can convey their messages to the world.
